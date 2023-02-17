@@ -9,9 +9,9 @@
 
 
 
-<mark>Bank MoMo:0338479293
+<mark> :Bank MoMo:0338479293
 
-	<em>Min 5001 Max 20k
+<strong> :Tối Thiểu 5k. Tối Đa 20k
 
 
 	#snowflakeContainer{position:absolute;left:0px;top:0px;}
