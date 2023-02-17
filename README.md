@@ -3,12 +3,16 @@
 
 
 
-<font color="red"> Chẵn Lẻ 2</font>
+
+
+<font color="red"> Chẵn Lẻ MoMo</font>
+
 
 
 <mark>Bank MoMo:0338479293
-<font color="blue">Min 5001 Max 20k</font>
-<style>
+
+	<em>Min 5001 Max 20k
+
 
 	#snowflakeContainer{position:absolute;left:0px;top:0px;}
 
